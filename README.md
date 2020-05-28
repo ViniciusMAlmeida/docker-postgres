@@ -1,4 +1,6 @@
 # docker-postgres
-docker-compose service for postgresql and adminer
+docker-compose service for PostgreSQL and Adminer
 
-use `docker-compose up -d` to run, then access http://localhost:8080
+Open terminal and use `docker-compose up -d` command to run, then access http://localhost:8080
+
+Have fun!
